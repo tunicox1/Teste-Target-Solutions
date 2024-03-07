@@ -5,7 +5,10 @@ Bem-vindo ao repositório de teste da empresa Target Solutions! Este é um proje
 ## Exemplo de Uso
 
 Aqui está um exemplo simples de como usar algumas funcionalidades deste projeto:
-
+Para executar basta ter o dart instalado em sua maquina e digitar no seu repositorio 
+```dart
+dart main.dart
+```
 ### Verificação na Sequência de Fibonacci / Inverter String.
 
 ```dart
@@ -35,3 +38,4 @@ void main() {
   print("String invertida: $invertedString");
 }
 ```
+

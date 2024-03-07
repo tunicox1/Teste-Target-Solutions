@@ -6,7 +6,7 @@ Bem-vindo ao repositório de teste da empresa Target Solutions! Este é um proje
 
 Aqui está um exemplo simples de como usar algumas funcionalidades deste projeto:
 
-### Verificação na Sequência de Fibonacci
+### Verificação na Sequência de Fibonacci / Inverter String.
 
 ```dart
 import 'inverterString.dart';
